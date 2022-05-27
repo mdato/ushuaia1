@@ -17,25 +17,25 @@ const items = [
     icon: IoFastFoodOutline,
     title: 'Breakfast',
     text: 'Everyone gets a breakfast plate every morning at the cabana behind the beach house.',
-    color: 'green.50',
+    color: 'pink.500',
   },
   {
     icon: HiWifi,
     title: 'Wi-Fi',
     text: 'The beach house, and the wider area around it is covered by a 100mbps Wi-Fi network, free of charge.',
-    color: 'red.50',
+    color: 'green.500',
   },
   {
     icon: IoBicycleOutline,
     title: 'Bicycles',
     text: 'There are 10 bicycles available for all guests. Also, there is a beautiful hiking trail nearby.',
-    color: 'blue.50',
+    color: 'red.500',
   },
   {
     icon: BiCar,
     title: 'Parking',
     text: 'There are 3 parking spots in the shared campus parking lot available for the guests.',
-    color: 'yellow.50',
+    color: 'blue.500',
   },
 ];
 
