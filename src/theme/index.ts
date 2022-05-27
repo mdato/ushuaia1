@@ -5,7 +5,8 @@ const theme = extendTheme({
   styles: {
     global: {
       'html, body': {
-        color: 'gray.400',
+        color: 'gray.700',
+        bg:'gray.900',
       },
     },
   },
@@ -37,8 +38,6 @@ const theme = extendTheme({
       },
     },
   },
-  initialColorMode: 'dark',
-  useSystemColorMode: false,
 });
 
 export default theme;
