@@ -33,7 +33,7 @@ const theme = extendTheme({
         pill: (props: StyleFunctionProps) => ({
           ...base.components.Button.variants.outline(props),
           rounded: "full",
-          color: "gray.500",
+          color: "gray.900",
         }),
       },
     },
